@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🖥️ UI/UX Design Portfolio
@@ -26,11 +27,11 @@ to be handed off directly to development.
 
 <table>
   <tr>
-    <td align="center"><img src="web-designs/web-design-01.jpg" width="380"/><br/><b>Web Design — 01</b></td>
-    <td align="center"><img src="web-designs/web-design-02.jpg" width="380"/><br/><b>Web Design — 02</b></td>
+    <td align="center"><img src="web-design-01.png" width="380"/><br/><b>Web Design — 01</b></td>
+    <td align="center"><img src="web-design-02.png" width="380"/><br/><b>Web Design — 02</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="web-designs/web-design-03.jpg" width="380"/><br/><b>Web Design — 03</b></td>
+    <td align="center"><img src="web-design-03.png" width="380"/><br/><b>Web Design — 03</b></td>
     <td align="center"></td>
   </tr>
 </table>
@@ -43,9 +44,8 @@ to be handed off directly to development.
 
 <table>
   <tr>
-    <td align="center"><img src="mockups/mockup-01.jpg" width="280"/><br/><b>Mockup — 01</b></td>
-    <td align="center"><img src="mockups/mockup-02.jpg" width="280"/><br/><b>Mockup — 02</b></td>
-    <td align="center"><img src="mockups/mockup-03.jpg" width="280"/><br/><b>Mockup — 03</b></td>
+    <td align="center"><img src="mockup-01.jpg" width="380"/><br/><b>Mockup — 01</b></td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -57,8 +57,8 @@ to be handed off directly to development.
 
 <table>
   <tr>
-    <td align="center"><img src="portfolio-designs/portfolio-design-01.jpg" width="380"/><br/><b>Portfolio Design — 01</b></td>
-    <td align="center"><img src="portfolio-designs/portfolio-design-02.jpg" width="380"/><br/><b>Portfolio Design — 02</b></td>
+    <td align="center"><img src="portfolio-design-01.jpg" width="380"/><br/><b>Portfolio Design — 01</b></td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -75,6 +75,16 @@ to be handed off directly to development.
 ---
 
 ## 🎯 My Design Process
+
+```
+01. DISCOVER    → User research, client brief, competitor analysis
+02. WIREFRAME   → Low-fidelity sketches and information architecture
+03. DESIGN      → High-fidelity mockups in Adobe XD / Figma
+04. PROTOTYPE   → Interactive prototype for client review
+05. HANDOFF     → Developer-ready specs, assets, and style guide
+06. BUILD       → Pixel-perfect HTML/CSS/JS implementation
+```
+
 ---
 
 ## 💼 What I Offer
